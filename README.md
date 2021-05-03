@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**ArslanMahmoodAnsari/ArslanMahmoodAnsari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I love working with Node | React | Next | Typescript | JavaScript.
 
-Here are some ideas to get you started:
+🌱 I’m currently learning Typescript and Cloud Technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 I’m looking to collaborate on interesting and challenging Projects.
+
+💬 Ask me about Typescript | JavaScript
+
+⚡ Fun fact: OCD for Clean and Dynamic code
+
+
+## Contact 🤝
+- 📫 How to reach me: arslanmehmood18@gmail.com
+- 📄 Download Indeed: [Resume](https://my.indeed.com/p/arslana-cc5glpt)
+- 🔗 Connect using: [LinkedIn](https://www.linkedin.com/in/arslanmahmoodansari)
